@@ -1,5 +1,5 @@
 # Pong
-# Tugas Chapter 1
+Tugas Chapter 1. Folder "Pong Agate" = FILE PROJECT Unity. Folder "Studi Pong" = FILE BUILD STANDALONE.
 # Link Github
 https://github.com/DoujinPoi/Pong
 
